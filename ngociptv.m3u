@@ -15,7 +15,6 @@ http://103.124.94.248/vtv3?token=live
 
 #EXTINF:-1 tvg-id="vtv4hd" group-title="❤| VTV" tvg-logo="http://i.imgur.com/9zVTtsA.png",VTV4
 #http://s4.nihontv.net:21585/vtv4/index.m3u8
-#https://api.wintv.me/360/108/index.m3u8
 http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/56.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hd" group-title="❤| VTV" tvg-logo="http://i.imgur.com/7qPKNFU.png",VTV5
